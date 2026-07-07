@@ -68,7 +68,7 @@ flowchart LR
 ### Clone Repository
 
 ```bash
-git clone https://github.com/ranejai954/lenovo-ai-internship-capstone-project-july-2026.git
+git clone https://github.com/impratik011/Lenovo-ai-internship-capstone-project-july-2026
 
 cd lenovo-ai-internship-capstone-project-july-2026
 ```
@@ -99,15 +99,15 @@ streamlit run app.py
 
 ### Home Page
 
-![Home](Screenshot%20-%201.png)
+![Home](Screenshot%201.png)
 
 ### Energy Analysis
 
-![Analysis](Screenshot%20-%202.png)
+![Analysis](Screenshot%202.png)
 
 ### AI Recommendations
 
-![Recommendations](Screenshot%20-%203.png)
+![Recommendations](Screenshot%203.jpg)
 
 ---
 
@@ -160,9 +160,9 @@ lenovo-ai-internship-capstone-project-july-2026/
 
 **Pratik Ashwini Pandey** **Generative AI & Agentic Systems Engineering Intern** at **Lenovo LEAP** 
 
-🔗 GitHub: https://github.com/ranejai954
+🔗 GitHub: https://github.com/impratik011
 
-🔗 Linkedin: https://www.linkedin.com/in/jai-rane-62ba58352 
+🔗 Linkedin: https://www.linkedin.com/in/pratik-pandey-94417b362/ 
 
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
 
